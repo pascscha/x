@@ -1,1 +1,1 @@
-<script>window.location.href='https://en.wikipedia.org/wiki/Cross-site_scripting'</script>
+<script>window.location.href='https://en.wikipedia.org/wiki/Cross-site_scripting'
